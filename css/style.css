@@ -385,7 +385,7 @@ section {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 42%;
+    left: 44%;
 }
 
 /*-----text------*/
@@ -745,7 +745,7 @@ section {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 43.5%;
+    left: 45%;
 }
 
 /*-----text------*/
@@ -1031,7 +1031,7 @@ section {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 42%
+    left: 44%
 }
 
 .se-5 .address p {
@@ -1101,7 +1101,7 @@ section {
 
 .se-5 .container-10 .Walt .num-1 .app-11 {
     width: 100%;
-    height: 21%;
+    height: 19%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1109,6 +1109,7 @@ section {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .se-5 .container-10 .Walt .num-1:hover .app-11 {
@@ -1116,7 +1117,8 @@ section {
 }
 
 .se-5 .container-10 .Walt .num-1 .app-11 div {
-    padding: 0px 25px;
+    padding-top: 30px;
+    padding-left: 25px;
 }
 
 .se-5 .container-10 .Walt .num-1 .app-11 div h3 {
@@ -1169,7 +1171,7 @@ section {
 
 .se-5 .container-10 .Walt .num-2 .app-44 {
     width: 100%;
-    height: 14%;
+    height: 13%;
     background-color: #00000018;
     position: absolute;
     bottom: -86px;
@@ -1184,7 +1186,8 @@ section {
 }
 
 .se-5 .container-10 .Walt .num-2 .app-44 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt .num-2 .app-44 div h3 {
@@ -1236,7 +1239,7 @@ section {
 
 .se-5 .container-10 .Walt-2 .num-3 .app-12 {
     width: 100%;
-    height: 33.5%;
+    height: 29%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1251,7 +1254,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-2 .num-3 .app-12 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-2 .num-3 .app-12 div h3 {
@@ -1304,7 +1308,7 @@ section {
 
 .se-5 .container-10 .Walt-2 .num-4 .app-13 {
     width: 100%;
-    height: 14%;
+    height: 13%;
     background-color: #00000018;
     position: absolute;
     bottom: -86px;
@@ -1319,7 +1323,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-2 .num-4 .app-13 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-2 .num-4 .app-13 div h3 {
@@ -1372,7 +1377,7 @@ section {
 
 .se-5 .container-10 .Walt-2 .num-5 .app-14 {
     width: 100%;
-    height: 33.5%;
+    height: 30%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1387,7 +1392,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-2 .num-5 .app-14 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-2 .num-5 .app-14 div h3 {
@@ -1455,7 +1461,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-3 .num-6 .app-15 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-3 .num-6 .app-15 div h3 {
@@ -1508,7 +1515,7 @@ section {
 
 .se-5 .container-10 .Walt-3 .num-7 .app-16 {
     width: 100%;
-    height: 33.5%;
+    height: 30%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1523,7 +1530,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-3 .num-7 .app-16 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-3 .num-7 .app-16 div h3 {
@@ -1575,7 +1583,7 @@ section {
 
 .se-5 .container-10 .Walt-3 .num-8 .app-17 {
     width: 100%;
-    height: 33.5%;
+    height: 30%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1590,7 +1598,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-3 .num-8 .app-17 div {
-    padding: 0px 25px;
+    padding-left:25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-3 .num-8 .app-17 div h3 {
@@ -1641,7 +1650,7 @@ section {
 
 .se-5 .container-10 .Walt-3 .num-9 .app-18 {
     width: 100%;
-    height: 33.5%;
+    height: 30%;
     background-color: #00000018;
     position: absolute;
     bottom: -88px;
@@ -1656,7 +1665,8 @@ section {
 }
 
 .se-5 .container-10 .Walt-3 .num-9 .app-18 div {
-    padding: 0px 25px;
+    padding-left: 25px;
+    padding-top: 25px;
 }
 
 .se-5 .container-10 .Walt-3 .num-9 .app-18 div h3 {
@@ -1867,6 +1877,19 @@ section {
     .se-5 .address .Portfolio-1 h2 {
         left: 22%;
     }
+
+    .se-5 .container-10 .Walt .num-1 .app-11 {
+        height: 23%;
+    }
+
+    .se-5 .container-10 .Walt .num-2 .app-44 {
+        height: 17%;
+    }
+
+    
+    .se-5 .container-10 .Walt .num-3 .app-12 {
+        height: 53%;
+    }
 }
 
 @media(max-width : 320px) {
@@ -1917,7 +1940,7 @@ section {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 44%
+    left: 45.5%;
 }
 
 .se-6 .address p {
@@ -2296,7 +2319,7 @@ section {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 46%
+    left: 47%;
 }
 
 .se-7 .address p {
@@ -2463,7 +2486,7 @@ p {
     text-transform: uppercase;
     position: absolute;
     bottom: 10px;
-    left: 44%
+    left: 45%;
 }
 
 .se-8 .address p {
